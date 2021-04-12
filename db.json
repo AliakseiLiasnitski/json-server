@@ -1,7 +1,13 @@
 {
-  "items": [
-    { "name": "42" },
-    { "name": "AbErVaLlG" },
-    { "name": "3" },
-  ]
+    "items": [
+        {
+            "name": "42"
+        },
+        {
+            "name": "AbErVaLlG"
+        },
+        {
+            "name": "3"
+        }
+    ]
 }
